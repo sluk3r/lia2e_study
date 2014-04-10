@@ -50,3 +50,6 @@ public class VerboseIndexing {
     vi.index();
   }
 }
+
+
+
